@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "released": "2026-09-05",
-  "notes": "Open Config and type your license key — the same code you used to get the disk.",
+  "notes": "New in Config: strip brackets from song names. On by default. Mixes stay in the file name if you turn it off.",
   "page": "https://44.194.199.233.sslip.io/",
   "macos": {
     "arm64": {
