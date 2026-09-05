@@ -1,16 +1,16 @@
 {
-  "version": "1.3.4",
+  "version": "1.4.0",
   "released": "2026-09-05",
-  "notes": "Current field build. Disks are not on GitHub. Open the gate with your code.",
+  "notes": "Open Config and type your license key — the same code you used to get the disk.",
   "page": "https://44.194.199.233.sslip.io/",
   "macos": {
     "arm64": {
       "label": "Apple Silicon",
-      "url": "https://44.194.199.233.sslip.io/"
+      "url": "https://github.com/mit-bach/dj-fetch-dist/releases/latest/download/DJ-Fetch-Apple-Silicon.dmg"
     },
     "x86_64": {
       "label": "Intel",
-      "url": "https://44.194.199.233.sslip.io/"
+      "url": "https://github.com/mit-bach/dj-fetch-dist/releases/latest/download/DJ-Fetch-Intel.dmg"
     }
   }
 }
