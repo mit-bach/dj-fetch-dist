@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "released": "2026-09-05",
-  "notes": "New in Config: strip brackets from song names. On by default. Mixes stay in the file name if you turn it off.",
+  "notes": "Download and update progress in the app. Admin login is hyper or dealer — dealers do not see Diagnostics.",
   "page": "https://44.194.199.233.sslip.io/",
   "macos": {
     "arm64": {
